@@ -44,20 +44,20 @@
 }
 
 .promotions{
-  font-size: 40px;
+  font-size: 36px;
   font-family: 'roboto', sans-serif;
   margin-bottom: 8px;
 }
 
 .sales{
-  font-size: 36px;
+  font-size: 32px;
   font-family: 'roboto', sans-serif;
   margin-top: 0px;
   margin-bottom: 8px;
 }
 
 .hey-there{
-  font-size: 33px;
+  font-size: 29px;
   font-family: Arial;
   color: rgb(93,93,93);
   margin-top: 0px;
@@ -120,7 +120,7 @@
 }
 
 .supersimple{
-  font-size: 45px;
+  font-size: 38px;
   margin-top: 20px;
   margin-bottom: 8px;
 }
@@ -135,7 +135,7 @@
 }
 
 .backend-web{
-   font-size: 41px;
+   font-size: 34px;
   font-family: Arial;
   margin-top: 0px;
   margin-bottom: 10px;
