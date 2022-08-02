@@ -1,0 +1,163 @@
+.e-exercise{
+  display: flex;
+  flex-direction: column;
+  background: rgb(248,248,248);  
+  margin-left: 22px;
+  margin-right: 22px;
+  border-radius: 10px;
+  border: none;
+  box-shadow: 1px 1px 6px rgb(0,0,0, 0.3);
+}
+
+.inbox{
+  display: block;
+}
+
+.inboxes{
+  font-size: 38px;
+  color: rgb(95,95,95);
+  margin-left: 30px;
+  margin-top: 30px;
+  margin-bottom: 0px;
+}
+
+.things{
+  display: flex;
+  flex-direction: row;
+  margin-bottom: 27px;
+  margin-right: 0px;
+}
+
+.image{
+    width: 127px;
+    height: 127px;
+    object-fit: cover;
+    border-radius: 50%;
+    object-position: top;
+    margin-top: 40px;
+    margin-left: 42px;
+}
+
+.page{
+  margin-left: 30px;
+  margin-top: 0;
+}
+
+.promotions{
+  font-size: 40px;
+  font-family: 'roboto', sans-serif;
+  margin-bottom: 8px;
+}
+
+.sales{
+  font-size: 36px;
+  font-family: 'roboto', sans-serif;
+  margin-top: 0px;
+  margin-bottom: 8px;
+}
+
+.hey-there{
+  font-size: 33px;
+  font-family: Arial;
+  color: rgb(93,93,93);
+  margin-top: 0px;
+}
+  
+.time{
+  display: flex;
+  justify-content: end;
+  align-items: top;
+  margin-left: 0px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
+.pm{
+  font-size: 36px;
+  color: rgb(95,95,95);
+  margin-right: 0px;
+  margin-left: -100px;
+  margin-top: 45px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+} 
+
+.nested-layouts{
+  width: 880px;
+  margin-left: 22px;
+  margin-right: 16px;
+}
+
+.g-exercise{
+  display: flex;
+  flex-direction: column;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: none;
+}
+
+.top-part{
+  display: flex;
+  flex-direction: row;
+  margin-right: 0px;
+  margin-bottom: 30px;
+}
+
+.super-backend{
+  margin-left: 25px;
+  margin-top: 0;
+  width: 800px;
+}
+
+.white{
+    width: 127px;
+    height: 127px;
+    object-fit: cover;
+    border-radius: 50%;
+    object-position: top;
+    margin-top: 40px;
+    margin-left: 12px;
+}
+
+.supersimple{
+  font-size: 45px;
+  margin-top: 20px;
+  margin-bottom: 8px;
+}
+.simple{
+  font-family: Arial;
+  font-weight: bold;
+}
+
+.dev{
+  color: rgb(95,95,95);
+  font-family: Arial;
+}
+
+.backend-web{
+   font-size: 41px;
+  font-family: Arial;
+  margin-top: 0px;
+  margin-bottom: 10px;
+  width: 700px;
+}
+
+.youtube-div{
+  margin-left: 22px;
+  margin-right: 0px;
+  margin-top: 0;
+}
+
+.youtube{
+  color: rgb(95,95,95);
+  font-size: 40px;
+  font-family: Arial;
+  margin-bottom: 12px;
+}
+
+.overview{
+  font-size: 40px;
+  font-family: Arial;
+  margin-top: 0px;
+  padding-right: 0px;
+}
